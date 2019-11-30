@@ -1,2 +1,3 @@
-# cesar_engdados_icd
-Material desenvolvido durante a disciplina de Introdução a Ciência de Dados, na especialização em Análise e Engenharia de Dados do CESAR/PE.
+# Projeto de análise exploratória
+
+Este projeto tem o objetivo de efetuar a análise exploratória da base de dados de bilhetagem eletrônica da cidade de Natal/RN, para o ano de 2019.
