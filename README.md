@@ -1,3 +1,3 @@
-# Projeto de análise exploratória
+# Projeto de análise descritiva
 
-Este projeto tem o objetivo de efetuar a análise exploratória da base de dados de bilhetagem eletrônica da cidade de Natal/RN, para o ano de 2019.
+Este projeto tem o objetivo de efetuar a análise descritiva da base de dados de bilhetagem eletrônica da cidade de Natal/RN, para o ano de 2019.
